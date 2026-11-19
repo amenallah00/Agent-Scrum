@@ -460,7 +460,7 @@ cd backend && pytest -v      # Verbose output
 - 🎯 **Objectif :** À la recherche d'un **PFE de 6 mois dès février 2027** (chatbots RAG, agents IA autonomes)
 
 📫 **GitHub :** [@amenallah00](https://github.com/amenallah00)  
-📧 **Email :** [abdramen64@gmail.com](mailto:abdramen64@gmail.com)
+📧 **Email :** [amenallah.benabdrabah@enicar.ucar.tn](mailto:amenallah.benabdrabah@enicar.ucar.tn)
 
 ---
 
