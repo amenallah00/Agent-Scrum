@@ -2,6 +2,11 @@
 
 A multi-agent simulation platform where AI agents self-organize to process work across different domains. Create boards for Publishing, Software Development, Talent Acquisition, Sales, or Security Operations - each with its own domain-specific agents that collaborate in real-time on a Kanban board.
 
+> 🎓 **Developed by Amenallah** ([@amenallah00](https://github.com/amenallah00)) &mdash; *Engineering Student @ **ENICarthage***  
+> Specializing in Applied Generative AI (RAG / GraphRAG, Autonomous LLM Agents, Multi-Agent Swarms).  
+> 🎯 **Looking for a 6-month PFE starting February 2027** in RAG & AI Agents.
+
+
 **[Try the live demo](https://tensorops.ai/agent-scrum)** &nbsp;·&nbsp; **[Read the deep-dive](https://tensorops.ai/blog/beyond-the-single-agent-building-a-jira--slack-for-ai-swarms-with-langgraph-google-a2a-and-mcp)** &nbsp;·&nbsp; **[Watch the explainer](https://www.youtube.com/watch?v=4yiZrAUdGVI)**
 
 [![Agent Scrum explainer video](https://img.youtube.com/vi/4yiZrAUdGVI/maxresdefault.jpg)](https://www.youtube.com/watch?v=4yiZrAUdGVI)
@@ -443,6 +448,22 @@ cd backend && pytest -v      # Verbose output
 
 80 tests covering API endpoints, A2A protocol, agent workflows, multi-board operations, and database models.
 
+## 👨‍💻 Author & Contact
+
+**Amenallah**  
+*Étudiant ingénieur à **ENICarthage**, spécialisé en IA générative appliquée : pipelines RAG / GraphRAG, agents autonomes basés sur LLM et matching sémantique.*
+
+- 🩻 **Computer Vision 3D :** Segmentation de scanners CT abdominaux en 3D avec nnU-Net v2 (PyTorch, CUDA 12.4 — inférence ≈ 1 s)
+- 🤖 **DevOps Agentique :** Agent DevOps automatisant la relecture de Pull Requests : descriptions, labels, suggestions de reviewers, synthèse des statuts CI (déployé sur Vercel + Railway)
+- 🌱 **Recherche & Exploration :** Orchestration multi-agents, graphes de connaissances (Neo4j) et évaluation de RAG
+- 💬 **Technologies :** Python, LangChain, LangGraph, FastAPI, PyTorch, RAG, WebSockets, React / TypeScript
+- 🎯 **Objectif :** À la recherche d'un **PFE de 6 mois dès février 2027** (chatbots RAG, agents IA autonomes)
+
+📫 **GitHub :** [@amenallah00](https://github.com/amenallah00)  
+📧 **Email :** [abdramen64@gmail.com](mailto:abdramen64@gmail.com)
+
+---
+
 ## License
 
-MIT
+MIT - Copyright (c) 2026 Amenallah
