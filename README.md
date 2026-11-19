@@ -9,7 +9,7 @@ A multi-agent simulation platform where AI agents self-organize to process work 
 
 **[Try the live demo](https://tensorops.ai/agent-scrum)** &nbsp;·&nbsp; **[Read the deep-dive](https://tensorops.ai/blog/beyond-the-single-agent-building-a-jira--slack-for-ai-swarms-with-langgraph-google-a2a-and-mcp)** &nbsp;·&nbsp; **[Watch the explainer](https://www.youtube.com/watch?v=4yiZrAUdGVI)**
 
-[![Agent Scrum explainer video](https://img.youtube.com/vi/4yiZrAUdGVI/maxresdefault.jpg)](https://www.youtube.com/watch?v=4yiZrAUdGVI)
+![AI Workforce OS - Agent Scrum](Images/miniature-ai-workforce-amen.jpg)
 
 > *"Beyond the single agent: building a Jira + Slack for AI swarms with LangGraph, Google A2A, and MCP."* &mdash; [blog post](https://tensorops.ai/blog/beyond-the-single-agent-building-a-jira--slack-for-ai-swarms-with-langgraph-google-a2a-and-mcp)
 
